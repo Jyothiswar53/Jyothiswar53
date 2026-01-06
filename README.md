@@ -3,76 +3,10 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Computer Science Engineering Student  
-- 💻 Passionate about **Java Backend Development & Full Stack Applications**
-- 🌱 Currently learning **Advanced Spring Boot & System Design**
-- 🎯 Goal: Crack a **Software Engineer / Backend Internship**
-- ⚡ Strong interest in **clean code & scalable applications**
 
----
-
-## 🛠️ Tech Stack
-**Languages**
-- Java
-- JavaScript
-- SQL
-
-**Backend**
-- Spring Boot
-- REST APIs
-- Spring Security
-
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-
-**Database**
-- MySQL
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Postman
-
----
-
-## 🚀 Projects
-🔹 **Quiz Application (Spring Boot + MySQL)**
-- Authentication using Spring Security
-- Level-based questions (Easy / Medium / Hard)
-- Clean UI with HTML, CSS & JavaScript
-
-🔹 **E-Commerce Website**
-- Java Spring Boot backend
-- React.js frontend
-- Product management & authentication
-
-🔹 **Task Tracker Application**
-- Secure login & signup
-- CRUD operations
-- MySQL database integration
-
-👉 Check my repositories for full code & demos!
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" />
-</p>
-
----
-
-## 📫 Connect With Me
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jyothiswar53&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jyothiswar53&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothiswar53&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
