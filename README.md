@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jyothiswar</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>, I'm Jyothiswar</h1>
 <h3 align="center">Java Backend & Full Stack Developer | Spring Boot | MySQL</h3>
 
 ---
@@ -19,7 +19,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jyothiswar53&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=Jyothiswar53&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
